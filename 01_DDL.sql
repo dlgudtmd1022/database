@@ -95,5 +95,3 @@ SELECT * FROM members;
 -- DROP TABLE는 내부 데이터 및 테이블 구조 자체를 삭제
 DROP TABLE members;
 SELECT * FROM mebers;
-
-
